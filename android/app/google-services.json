@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "237848982037",
+    "project_id": "floating-bubble",
+    "storage_bucket": "floating-bubble.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237848982037:android:07409ae4e2aeba5184141c",
+        "android_client_info": {
+          "package_name": "com.example.floatingbubble"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237848982037-89o1fsllg1t4diepfjgvuspn7use2778.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB-PyiiF21EDBajI0t8HF3__TG_rNGEPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237848982037-89o1fsllg1t4diepfjgvuspn7use2778.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "237848982037-mbjndmk3023lb5614ksdejkq5q3iiad2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.floatingbubble"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
